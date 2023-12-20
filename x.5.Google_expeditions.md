@@ -23,7 +23,7 @@ Google Expeditions es una aplicación de realidad virtual (VR) desarrollada por 
 7. **Modo de Realidad Aumentada (AR):**
    - Además de la realidad virtual, Google Expeditions cuenta con un modo de realidad aumentada que permite a los estudiantes explorar objetos y escenarios virtuales en el mundo real utilizando sus dispositivos móviles.
 
-Google Expeditions ha sido utilizado en aulas de todo el mundo para enriquecer la educación y proporcionar experiencias de aprendizaje únicas. Sin embargo, ten en cuenta que la disponibilidad y las características específicas pueden haber cambiado desde mi última actualización.
+Google Expeditions ha sido utilizado en aulas de todo el mundo para enriquecer la educación y proporcionar experiencias de aprendizaje únicas. Sin embargo, ten en cuenta que la disponibilidad y las características específicas pueden haber cambiado desde la última actualización.
 
 ### Cómo usar Google Expeditions
 

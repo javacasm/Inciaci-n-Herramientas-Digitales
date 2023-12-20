@@ -75,8 +75,10 @@ x:
 		Cabecera.md        \
 		Cabecera_latex.md \
 		x.1.TIC_aulas.md \
-		x.4.0.Licencias.md \
-		x.4.3.Licencias_CC.md \
-		x.4.5.Porque_licencias_libres.md \
+		x.2.0.Licencias.md \
+		x.2.3.Licencias_CC.md \
+		x.2.5.Porque_licencias_libres.md \
+		x.3.Bancos_imagenes.md \
+		x.5.Google_expeditions.md \
 		x.6.QR.md \
 		x.8.bitmoji.md

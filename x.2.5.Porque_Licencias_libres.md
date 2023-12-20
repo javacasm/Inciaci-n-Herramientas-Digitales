@@ -1,4 +1,4 @@
-### Porqué usar Licencias libres
+### Porqué usar Licencias libres
 
 Utilizar licencias libres en las creaciones educativas y compartirlas puede proporcionar varios beneficios tanto para los creadores como para la comunidad educativa en general. Aquí hay algunos argumentos a favor de usar licencias libres y compartir contenido educativo:
 

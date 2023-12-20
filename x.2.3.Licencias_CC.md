@@ -29,10 +29,10 @@ Aquí hay un resumen de los elementos clave de las licencias Creative Commons:
    - Permite la copia, distribución, exhibición y ejecución de la obra y obras derivadas, pero no para un uso comercial. Se debe dar crédito al autor original.
 
 3. **Atribución-NoComercial-CompartirIgual (CC BY-NC-SA):**
-   - Permite a otros remixar, retocar y crear a partir de la obra para fines no comerciales, siempre y cuando den crédito al autor y licencien sus nuevas creaciones bajo los mismos términos.
+   - Permite a otros remezclar, retocar y crear a partir de la obra para fines no comerciales, siempre y cuando den crédito al autor y licencien sus nuevas creaciones bajo los mismos términos.
 
 4. **Atribución-CompartirIgual (CC BY-SA):**
-   - Permite a otros remixar, retocar y crear a partir de la obra, incluso con fines comerciales, siempre y cuando den crédito al autor y licencien sus nuevas creaciones bajo los mismos términos.
+   - Permite a otros remezclar, retocar y crear a partir de la obra, incluso con fines comerciales, siempre y cuando den crédito al autor y licencien sus nuevas creaciones bajo los mismos términos.
 
 5. **Atribución-NoComercial-SinDerivados (CC BY-NC-ND):**
    - La licencia más restrictiva, solo permite descargar las obras y compartirlas con otras personas siempre que se den créditos, pero no se pueden cambiar de ninguna manera ni se pueden utilizar comercialmente.

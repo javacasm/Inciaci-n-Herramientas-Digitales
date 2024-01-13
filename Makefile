@@ -16,17 +16,20 @@ all: 2 3 4 5 x
 		-o  $(T2)  \
 		Cabecera.md        \
 		Cabecera_latex.md \
-		2.0.Canva.md \
+		2.0.0.Canva.md \
+		2.0.3.Canva_Licencias.md \
 		2.1.Canva_app_web.md \
 		2.2.Canva_tutorial.md \
 		2.3.0.Canva_ejemplos.md \
-		2.3.1.Canva_infografia.md \
+		2.3.1.0.Canva_infografia.md \
+		2.3.1.1.Canva_infografía_mas_ejemplos.md \
 		2.3.2.Canva_lineas_temporales.md \
 		2.3.3.Canva_poster.md \
 		2.4.Canva_redes_sociales.md \
 		2.6.Canva_videos.md \
 		2.7.Canva_liveworksheet.md \
-		2.9.Canva_alternativas.md
+		2.9.0.Canva_alternativas.md \
+		2.9.1.Canva-powerpoint.md
 
 3:
 	pandoc --pdf-engine=xelatex   \

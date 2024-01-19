@@ -18,6 +18,7 @@ all: 2 3 4 5 x
 		Cabecera_latex.md \
 		2.0.0.Canva.md \
 		2.0.3.Canva_Licencias.md \
+		2.0.4.Canva_educacion.md \
 		2.1.Canva_app_web.md \
 		2.2.Canva_tutorial.md \
 		2.3.0.Canva_ejemplos.md \
@@ -31,7 +32,9 @@ all: 2 3 4 5 x
 		2.6.Canva_videos.md \
 		2.7.Canva_liveworksheet.md \
 		2.8.0.Canva_alternativas.md \
-		2.8.1.Canva-powerpoint.md
+		2.8.1.Canva-powerpoint.md \
+		2.9.0.Canva_otros_formatos.md \
+		2.9.1.Canva_apps.md
 
 3:
 	pandoc --pdf-engine=xelatex   \

@@ -1,20 +1,14 @@
 # Iniciación a las Herramientas Digitales en el aula
 
 
-### ¿Logo curso?
+![](./images/logo-curso.jpeg)
 
-## Versión 0.1
-
-
+## Versión 0.3
 
 ![Licencia CC by SA](./images/Licencia_CC_peque.png) 
 
-## by @javacasm
+by @javacasm José Antonio Vacas Martínez
 
+[https://elCacharreo.com](https://elCacharreo.com)
 
-### José Antonio Vacas Martínez
-
-### https://elCacharreo.com
-
-
-## Noviembre 2023
+ Febrero 2024

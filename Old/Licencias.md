@@ -2,7 +2,7 @@
 
 Todo el material de este curso tiene licencia CC by SA
 
-![Licencia CC](./images/Licencia_CC.png)
+![Licencia CC](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/Licencia_CC.png?raw=true)
 
 #### ¿Qué significa CC?:
 
@@ -25,16 +25,16 @@ Porque mucho de lo que he aprendido lo he hecho de gente que lo compartía libre
 Además porque puedo hacer las cosas por mi mismo, cuando las entiendo, las puedo modificar, adaptarlas y mejorarla
 
 ### Ejemplo: [Arduino](http://www.arduino.cc)
-![arduino](./images/Arduino_Uno_-_R3.jpg)
+![arduino](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/Arduino_Uno_-_R3.jpg?raw=true)
 
 
 ### Ejemplo: impresoras 3D
 Imágenes, diseños, electrónica, programas
 
-![prusa](./images/prusa.jpg)
+![prusa](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/prusa.jpg?raw=true)
 
 En esta [presentación: ¿Por qué usar Open Source en educación?](http://www.slideshare.net/josepujolperez/programacion-y-robtica-secundaria-open-source?next_slideshow=1) del profesor de Tecnología José Pujol podemos ver la utilidad y conveniencia de usar licencias libres en las aulas
 
-[![Vídeo: Licencias libres](https://img.youtube.com/vi/klSO8xpK4yU/0.jpg)](https://youtu.be/klSO8xpK4yU)
+[![Vídeo: Licencias libres](https://img.youtube.com/vi/klSO8xpK4yU/0.jpg?raw=true)](https://youtu.be/klSO8xpK4yU)
 
 [Vídeo: Licencias libres](https://youtu.be/klSO8xpK4yU)

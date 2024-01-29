@@ -9,6 +9,6 @@ Vamos a ver algunos conceptos generales que nos van a resultar útiles
     - Definir el orden entre las capas
     - Hacer visibles o no las capas
 Normalmente se suele usar la terminología "más cercana" para las capas superiores y "más lejana" o atrás para las capas inferiores.
-![](./images/capas.gif)
+![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/capas.gif)
 * **Licencia** permisos 
 * **Deshacer** Utilidad que tienen la mayoría de las aplicaciones y que nos permite deshacer los últimos pasos, puedes activarla con la combinación de teclas Ctrl+Z (Cmd+Z) o el icono adecuado (suele ser una flecha curva indicando hacia la izda)

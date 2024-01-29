@@ -7,7 +7,7 @@ Enero de 2024
 
 ### José Antonio Vacas @javacasm
 
-![](./images/Licencia_CC_peque.png)
+![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/Licencia_CC_peque.png?raw=true)
 
 
 ## Objetivos
@@ -33,20 +33,20 @@ Enero de 2024
     * [Generador de QR](https://es.qr-code-generator.com/)
     * [Bitmoji](https://www.bitmoji.com/)
     * [Google Expeditions](https://artsandculture.google.com/project/expeditions)
-    ![](./images/googleExpeditions.jpeg)
+    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/googleExpeditions.jpeg)
     * [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
 
 * Presentaciones:
     * [Canva](https://www.canva.com/es_es/)
-    ![](./images/canva.jpeg)
+    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/canva.jpeg)
     * [Genially](https://genial.ly) [Tutorial](https://www.educaciontrespuntocero.com/recursos/tutorial-crear-un-kahoot-para-clase/)
 
 * Tests/Juegos
     * [Kahoot](https://kahoot.it/)
-    ![](./images/kahoot.jpeg)
+    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/kahoot.jpeg)
     * [Plickers](https://get.plickers.com/)
-    ![](./images/plicker.jpeg)
+    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/plicker.jpeg)
     * [Educaplay](https://es.educaplay.com/)
-    ![](./images/educaplay.jpeg)
+    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/educaplay.jpeg)
     * [LiveWorksheets](https://es.liveworksheets.com/) para añadir interacción a nuestras presentaciones de Canva
     * [Quizizz](https://quizizz.com/)

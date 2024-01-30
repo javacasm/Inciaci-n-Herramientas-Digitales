@@ -3,7 +3,7 @@
 
 ## CEP de Motril
 
-Enero de 2024
+Febrero de 2024
 
 ### José Antonio Vacas @javacasm
 
@@ -33,20 +33,20 @@ Enero de 2024
     * [Generador de QR](https://es.qr-code-generator.com/)
     * [Bitmoji](https://www.bitmoji.com/)
     * [Google Expeditions](https://artsandculture.google.com/project/expeditions)
-    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/googleExpeditions.jpeg)
+    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/googleExpeditions.jpeg?raw=true)
     * [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
 
 * Presentaciones:
     * [Canva](https://www.canva.com/es_es/)
-    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/canva.jpeg)
+    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/canva.jpeg?raw=true)
     * [Genially](https://genial.ly) [Tutorial](https://www.educaciontrespuntocero.com/recursos/tutorial-crear-un-kahoot-para-clase/)
 
 * Tests/Juegos
     * [Kahoot](https://kahoot.it/)
-    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/kahoot.jpeg)
+    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/kahoot.jpeg?raw=true)
     * [Plickers](https://get.plickers.com/)
-    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/plicker.jpeg)
+    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/plicker.jpeg?raw=true)
     * [Educaplay](https://es.educaplay.com/)
-    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/educaplay.jpeg)
+    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/educaplay.jpeg?raw=true)
     * [LiveWorksheets](https://es.liveworksheets.com/) para añadir interacción a nuestras presentaciones de Canva
     * [Quizizz](https://quizizz.com/)

@@ -21,7 +21,7 @@ all: 2 3 4 5 x
 		2.0.3.Canva_Licencias.md \
 		2.0.4.Canva_educacion.md \
 		2.1.Canva_app_web.md \
-		2.2.Canva_tutorial.md \
+		2.2.0.Canva_tutorial.md \
 		2.3.0.Canva_ejemplos.md \
 		2.3.1.0.Canva_Presentaciones.md \
 		2.3.1.1.Canva_ejemplo_presentaciones.md \

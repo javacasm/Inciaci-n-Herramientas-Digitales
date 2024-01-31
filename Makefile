@@ -17,6 +17,7 @@ all: 2 3 4 5 x
 		Cabecera.md        \
 		Cabecera_latex.md \
 		2.0.0.Canva.md \
+		2.0.1.Canva_tutorial_impacientes.md \
 		2.0.3.Canva_Licencias.md \
 		2.0.4.Canva_educacion.md \
 		2.1.Canva_app_web.md \

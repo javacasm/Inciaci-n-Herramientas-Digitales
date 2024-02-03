@@ -95,10 +95,15 @@ all: 0 1 2 3 4 5
 		-o  $(T4)  \
 		Cabecera.md        \
 		Cabecera_latex.md \
-		4.0.Kahoot.md \
+		4.0.0.Kahoot.md \
+		4.0.1.Usando_kahoot.md \
 		4.1.Kahoot_tutorial.md \
 		4.2.Kahoot_ejemplos.md \
-		4.9.Kahoot_alternativas.md
+		4.5.0.Kahoot_alternativas.md \
+		4.5.1.Quizizz.md \
+		4.5.2.Blokeet.md \
+		4.5.3.Mentimeter.md \
+		4.5.5.Plickers.md
 
 5:
 	pandoc --pdf-engine=xelatex   \
@@ -109,7 +114,7 @@ all: 0 1 2 3 4 5
 		Cabecera.md        \
 		Cabecera_latex.md \
 		5.0.Otras_herramientas.md \
-		5.1.Edupuzzle.md \
+		5.1.Edpuzzle.md \
 		5.7.Canva_liveworksheet.md \
 		5.8.bitmoji.md
 

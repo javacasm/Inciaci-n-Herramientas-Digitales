@@ -33,7 +33,6 @@ all: 0 1 2 3 4 5
 		1.2.0.Licencias.md \
 		1.2.2.Porque_licencias_libres.md \
 		1.2.3.Licencias_CC.md \
-		
 		1.2.6.Licencias_limitaciones.md \
 		1.2.9.Licencias_recursos.md \
 		1.3.Bancos_recursos.md \

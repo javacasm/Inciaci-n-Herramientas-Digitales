@@ -103,7 +103,6 @@ all: 0 1 2 3 4 5
 		4.5.0.Kahoot_alternativas.md \
 		4.5.1.Quizizz.md \
 		4.5.2.Blokeet.md \
-		4.5.3.Mentimeter.md \
 		4.5.5.Plickers.md
 
 5:
@@ -117,6 +116,5 @@ all: 0 1 2 3 4 5
 		5.0.Otras_herramientas.md \
 		5.1.Edpuzzle.md \
 		5.2.Educaplay.md \
-		5.7.Canva_liveworksheet.md \
 		5.8.bitmoji.md
 

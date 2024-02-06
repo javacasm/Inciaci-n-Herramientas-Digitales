@@ -11,7 +11,7 @@
 ## Contenido
 
 Módulo 1: Organizar recursos y sistema para pedir citas online (Calendly, Google Forms y Symbaloo).
-Módulo 2: Creación de presentaciones y videotutoriales. Herramientas para el ordenador, móvil o tablet. (Screencast o matic, Hippo, Super Recorder, AZ Screen Recorder, Grabación de pantalla, Quicktime Player).
+Módulo 2: Creación de presentaciones y vídeotutoriales. Herramientas para el ordenador, móvil o tablet. (Screencast o matic, Hippo, Super Recorder, AZ Screen Recorder, Grabación de pantalla, Quicktime Player).
 Módulo 3: Creación de contenidos digitales (Canva, Genial.ly).
 Módulo 4: Herramientas para trabajar colaborativamente (Padlet, Google Drive, PDF Escape).
 
@@ -20,7 +20,7 @@ Módulo 4: Herramientas para trabajar colaborativamente (Padlet, Google Drive, P
 Durante todo el curso se seguirá el siguiente procedimiento:
 a) Al comenzar cada bloque se abrirá un foro de dudas y debates para intercambiar experiencias y dudas entre los participantes.
 b) En esta sentido y seguidamente, en cada bloque se presentará una pequeña teoría en la que explique en que consiste la herramienta o el recurso a desarrollar.
-c) A continuación, se mostrará un videotutorial sobre el funcionamiento de cada una de ellas.
+c) A continuación, se mostrará un vídeotutorial sobre el funcionamiento de cada una de ellas.
 d) Para finalizar cada bloque, se propondrá una tarea obligatoria y una posible tarea voluntaria.
 
 

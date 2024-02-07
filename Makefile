@@ -98,10 +98,17 @@ all: 0 1 2 3 4 5
 		-o  $(T4)  \
 		Cabecera.md        \
 		Cabecera_latex.md \
-		4.0.0.Kahoot.md \
-		4.0.1.Usando_kahoot.md \
-		4.1.Kahoot_tutorial.md \
-		4.2.Kahoot_ejemplos.md \
+		4.0.0.Cuestionarios.md \
+		4.0.2.Kahoot.md \
+		4.0.4.Usos_kahoot.md \
+		4.0.5.Caracteristicas_kahoot.md \
+		4.0.7.Licencias_kahoot.md \
+		4.0.8.Jugando-kahoot.md \
+		4.0.9.Usando_kahoot.md \
+		4.1.0.Kahoot_tutorial.md \
+		4.1.1.Recorrido-kahoot.md \
+		4.1.2.Creando_kahoot.md \
+		4.2.Kahoot_ideas_ejemplos.md \
 		4.3.Kahoot_cursos.md \
 		4.5.0.Kahoot_alternativas.md \
 		4.5.1.Quizizz.md \

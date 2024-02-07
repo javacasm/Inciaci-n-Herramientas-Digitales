@@ -75,11 +75,15 @@ all: 0 1 2 3 4 5
 		-o  $(T3)  \
 		Cabecera.md        \
 		Cabecera_latex.md \
-		3.0.0.Genially.md \
-		3.0.1.Diferencia_genially-canva.md \
+		3.0.0.Creando_contenidos_interactivos.md \
+		3.0.1.Genially.md \
+		3.0.2.Diferencia_genially-canva.md \
+		3.0.3.Caracteristicas_genially.md \
+		3.0.4.Licencias_genially.md \
 		3.1.Genially_tutorial.md \
 		3.2.Genially_interaccion.md \
-		3.3.Genially_ejemplos.md \
+		3.3.0.Genially_ejemplos.md \
+		3.3.1.Ideas_genially.md \
 		3.4.Genially_plantillas.md \
 		3.5.Genially_Reutilizar.md \
 		3.6.Genially_gamificacion.md \

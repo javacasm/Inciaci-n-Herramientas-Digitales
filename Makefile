@@ -65,7 +65,8 @@ all: 0 1 2 3 4 5
 		2.6.Canva_videos.md \
 		2.7.0.Canva_otros_formatos.md \
 		2.8.0.Canva_alternativas.md \
-		2.8.1.Canva-powerpoint.md
+		2.8.1.Canva-powerpoint.md \
+		2.9.9.Trucos_canva.md
 		
 3:
 	pandoc --pdf-engine=xelatex   \

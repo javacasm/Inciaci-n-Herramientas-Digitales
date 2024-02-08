@@ -1,9 +1,9 @@
 # Iniciación a las Herramientas Digitales en el aula
 
-![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/cabecera-CURSO-HERRAMIENTAS.jpeg?raw=true)
+![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/logo-curso.jpeg?raw=true)
 
 
-## Versión 0.8.2
+## Versión 0.8.5
 
 ![Licencia CC by SA](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/Licencia_CC_peque.png?raw=true){width=100px} 
 

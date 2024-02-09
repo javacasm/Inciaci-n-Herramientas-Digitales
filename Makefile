@@ -101,10 +101,10 @@ all: 0 1 2 3 4 5
 		Cabecera_latex.md \
 		4.0.0.Cuestionarios.md \
 		4.0.2.Kahoot.md \
+		4.0.3.Jugando-kahoot.md \
 		4.0.4.Usos_kahoot.md \
 		4.0.5.Caracteristicas_kahoot.md \
 		4.0.7.Licencias_kahoot.md \
-		4.0.8.Jugando-kahoot.md \
 		4.0.9.Usando_kahoot.md \
 		4.1.0.Kahoot_tutorial.md \
 		4.1.1.Recorrido-kahoot.md \

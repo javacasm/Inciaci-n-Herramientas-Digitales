@@ -3,7 +3,7 @@
 ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/logo-curso.jpeg?raw=true)
 
 
-## Versión 0.9.2
+## Versión 0.9.3
 
 ![Licencia CC by SA](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/Licencia_CC_peque.png?raw=true){width=100px} 
 

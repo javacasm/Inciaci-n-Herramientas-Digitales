@@ -29,13 +29,13 @@ all: 0 1 2 3 4 5
 		Cabecera.md        \
 		Cabecera_latex.md \
 		1.0.TIC_aulas.md \
-		1.1.Google_expeditions.md \
 		1.2.0.Licencias.md \
 		1.2.2.Porque_licencias_libres.md \
 		1.2.3.Licencias_CC.md \
 		1.2.6.Licencias_limitaciones.md \
 		1.2.9.Licencias_recursos.md \
 		1.3.Bancos_recursos.md \
+		1.4.Google_expeditions.md \
 		1.6.QR.md \
 		1.9.web-apps.md \
 		1.z.Conceptos.md

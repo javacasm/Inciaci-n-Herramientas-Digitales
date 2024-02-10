@@ -18,7 +18,8 @@ all: 0 1 2 3 4 5
 		Cabecera_latex.md \
 		0.0.0.Presentacion_curso.md \
 		0.1.0.Estructura_curso.md \
-		0.2.0.Formato_curso.md
+		0.2.0.Formato_curso.md \
+		0.3.0.Presentacion_personal.md
 
 1:
 	pandoc --pdf-engine=xelatex   \

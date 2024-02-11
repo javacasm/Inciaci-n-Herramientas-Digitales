@@ -16,10 +16,11 @@ all: 0 1 2 3 4 5
 		-o  $(T0)  \
 		Cabecera.md        \
 		Cabecera_latex.md \
-		0.0.0.Presentacion_curso.md \
-		0.1.0.Estructura_curso.md \
-		0.2.0.Formato_curso.md \
-		0.3.0.Presentacion_personal.md
+		0.0.Presentacion_personal.md \
+		0.5.Presentacion_curso.md \
+		0.7.Estructura_curso.md \
+		0.8.Formato_curso.md
+		
 
 1:
 	pandoc --pdf-engine=xelatex   \

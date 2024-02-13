@@ -4,3 +4,17 @@
 Tema *.docx
 images/duracion_edutubers.png
 .gitignore
+*.aux
+*.fls
+*.mtc
+*.mtc0
+*.out
+*.synctex.gz
+*.toc
+*.fdb_latexmk
+*.log
+*.maf
+1.0_TIC.tex
+0.0_Intro.tex
+0.0_Intro.pdf
+1.0_TIC.pdf

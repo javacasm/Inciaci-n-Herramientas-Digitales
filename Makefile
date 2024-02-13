@@ -4,14 +4,17 @@ T3 = "Tema 3 - Genially.docx"
 T4 = "Tema 4 - Kahoot.docx" 
 T5 = "Tema 5 - Otras herramientas.docx"
 T1 = "Tema 1 - TIC, Licencias y Recursos.docx"
+T1TEX = "1.0_TIC.tex"
 T0 = "Tema 0 - Iniciación a las herramientas digitales en el aula.docx"
+T0TEX = "0.0_Intro.tex"
 
 all: 0 1 2 3 4 5
+
+tex: 0tex 1tex
 
 0:
 	pandoc --pdf-engine=xelatex   \
 		-V papersize:a4paper    \
-		--template=./LaTeX_ES.latex    \
 		--reference-doc=plantilla.docx \
 		-o  $(T0)  \
 		Cabecera.md        \
@@ -20,7 +23,19 @@ all: 0 1 2 3 4 5
 		0.5.Presentacion_curso.md \
 		0.7.Estructura_curso.md \
 		0.8.Formato_curso.md
-		
+
+0tex:
+	pandoc --read=markdown --write=latex --standalone \
+		-V papersize:a4paper    \
+		--template=./LaTeX_ES.latex    \
+		-o  $(T0TEX)  \
+		0.0.0.0.Cabecera.md        \
+		0.0.0.0.Cabecera_latex.md \
+		0.0.Presentacion_personal.md \
+		0.5.Presentacion_curso.md \
+		0.7.Estructura_curso.md \
+		0.8.Formato_curso.md
+
 
 1:
 	pandoc --pdf-engine=xelatex   \
@@ -29,7 +44,7 @@ all: 0 1 2 3 4 5
 		--reference-doc=plantilla.docx \
 		-o  $(T1)  \
 		Cabecera.md        \
-		Cabecera_latex.md \
+		1.0.Cabecera.tex \
 		1.0.TIC_aulas.md \
 		1.2.0.Licencias.md \
 		1.2.2.Porque_licencias_libres.md \
@@ -41,6 +56,24 @@ all: 0 1 2 3 4 5
 		1.6.QR.md \
 		1.9.web-apps.md \
 		1.z.Conceptos.md
+
+1tex:
+	pandoc --read=markdown --write=latex --standalone \
+		-V papersize:a4paper    \
+		-o  $(T1TEX)  \
+		1.0.0.0.Cabecera.tex \
+		1.0.0.0.Cabecera.md \
+		1.0.TIC_aulas.md \
+		1.2.0.Licencias.md \
+		1.2.2.Porque_licencias_libres.md \
+		1.2.3.Licencias_CC.md \
+		1.2.6.Licencias_limitaciones.md \
+		1.2.9.Licencias_recursos.md \
+		1.3.Bancos_recursos.md \
+		1.4.Google_expeditions.md \
+		1.6.QR.md \
+		1.9.web-apps.md \
+		1.z.Conceptos.md		
 
 2:
 	pandoc --pdf-engine=xelatex   \

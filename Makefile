@@ -45,7 +45,7 @@ tex: 0tex 1tex
 		-o  $(T1)  \
 		Cabecera.md        \
 		1.0.Cabecera.tex \
-		1.0.TIC_aulas.md \
+		1.0.TIC_aulas_contenidos.md \
 		1.2.0.Licencias.md \
 		1.2.2.Porque_licencias_libres.md \
 		1.2.3.Licencias_CC.md \

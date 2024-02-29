@@ -1,7 +1,7 @@
 
-T2 = "Tema 2 - Canva.docx"
-T3 = "Tema 3 - Genially.docx"
-T4 = "Tema 4 - Kahoot.docx" 
+T2 = "Tema 2 - Presentaciones - Canva.docx"
+T3 = "Tema 3 - Interacción - Genially.docx"
+T4 = "Tema 4 - Cuestionarios - Kahoot.docx" 
 T5 = "Tema 5 - Otras herramientas.docx"
 T1 = "Tema 1 - TIC, Licencias y Recursos.docx"
 T1TEX = "1.0_TIC.tex"
@@ -17,8 +17,8 @@ tex: 0tex 1tex
 		-V papersize:a4paper    \
 		--reference-doc=plantilla.docx \
 		-o  $(T0)  \
-		Cabecera.md        \
-		Cabecera_latex.md \
+		0.0.0.0.Cabecera.md \
+		0.0.0.0.Cabecera_latex.md \
 		0.0.Presentacion_personal.md \
 		0.5.Presentacion_curso.md \
 		0.7.Estructura_curso.md \
@@ -29,7 +29,7 @@ tex: 0tex 1tex
 		-V papersize:a4paper    \
 		--template=./LaTeX_ES.latex    \
 		-o  $(T0TEX)  \
-		0.0.0.0.Cabecera.md        \
+		0.0.0.0.Cabecera.md \
 		0.0.0.0.Cabecera_latex.md \
 		0.0.Presentacion_personal.md \
 		0.5.Presentacion_curso.md \
@@ -43,8 +43,8 @@ tex: 0tex 1tex
 		--template=./LaTeX_ES.latex    \
 		--reference-doc=plantilla.docx \
 		-o  $(T1)  \
-		Cabecera.md        \
-		1.0.Cabecera.tex \
+		1.0.0.0.Cabecera.md        \
+		1.0.0.0.Cabecera.tex \
 		1.0.TIC_aulas_contenidos.md \
 		1.2.0.Licencias.md \
 		1.2.2.Porque_licencias_libres.md \
@@ -63,7 +63,7 @@ tex: 0tex 1tex
 		-o  $(T1TEX)  \
 		1.0.0.0.Cabecera.tex \
 		1.0.0.0.Cabecera.md \
-		1.0.TIC_aulas.md \
+		1.0.TIC_aulas_contenidos.md \
 		1.2.0.Licencias.md \
 		1.2.2.Porque_licencias_libres.md \
 		1.2.3.Licencias_CC.md \
@@ -81,8 +81,8 @@ tex: 0tex 1tex
 		--template=./LaTeX_ES.latex    \
 		--reference-doc=plantilla.docx \
 		-o  $(T2)  \
-		Cabecera.md        \
-		Cabecera_latex.md \
+		2.0.0.0.0.Cabecera.md        \
+		2.0.0.0.0.Cabecera_latex.md \
 		2.0.0.Presentaciones.md \
 		2.0.1.Canva.md \
 		2.0.2.Canva_tutorial_impacientes.md \

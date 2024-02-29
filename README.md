@@ -9,7 +9,7 @@ Febrero de 2024
 
 ### José Antonio Vacas @javacasm
 
-![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/Licencia_CC_peque.png?raw=true)
+![](https://raw.githubusercontent.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/main/images/Licencia_CC_peque.png)
 
 
 ## Objetivos
@@ -35,20 +35,20 @@ Febrero de 2024
     * [Generador de QR](https://es.qr-code-generator.com/)
     * [Bitmoji](https://www.bitmoji.com/)
     * [Google Expeditions](https://artsandculture.google.com/project/expeditions)
-    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/googleExpeditions.jpeg?raw=true)
+    ![](https://raw.githubusercontent.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/main/images/googleExpeditions.jpeg)
     * [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
 
 * Presentaciones:
     * [Canva](https://www.canva.com/es_es/)
-    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/canva.jpeg?raw=true)
+    ![](https://raw.githubusercontent.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/main/images/canva.jpeg)
     * [Genially](https://genial.ly) [Tutorial](https://www.educaciontrespuntocero.com/recursos/tutorial-crear-un-kahoot-para-clase/)
 
 * Tests/Juegos
     * [Kahoot](https://kahoot.it/)
-    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/kahoot.jpeg?raw=true)
+    ![](https://raw.githubusercontent.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/main/images/kahoot.jpeg)
     * [Plickers](https://get.plickers.com/)
-    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/plicker.jpeg?raw=true)
+    ![](https://raw.githubusercontent.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/main/images/plicker.jpeg)
     * [Educaplay](https://es.educaplay.com/)
-    ![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/educaplay.jpeg?raw=true)
+    ![](https://raw.githubusercontent.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/main/images/educaplay.jpeg)
     * [LiveWorksheets](https://es.liveworksheets.com/) para añadir interacción a nuestras presentaciones de Canva
     * [Quizizz](https://quizizz.com/)

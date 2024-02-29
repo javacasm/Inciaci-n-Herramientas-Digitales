@@ -1,11 +1,11 @@
 # Iniciación a las Herramientas Digitales en el aula
 
-![](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/logo-curso.jpeg?raw=true)
+![](https://raw.githubusercontent.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/main/images/logo-curso.jpeg)
 
 
 ## Versión 0.9.4
 
-![Licencia CC by SA](https://github.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/blob/main/images/Licencia_CC_peque.png?raw=true){width=100px} 
+![Licencia CC by SA](https://raw.githubusercontent.com/javacasm/Iniciacion-Herramientas-Digitales-Aula/main/images/Licencia_CC_peque.png){width=100px} 
 
 
 by @javacasm José Antonio Vacas Martínez

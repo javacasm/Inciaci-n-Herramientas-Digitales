@@ -1,12 +1,14 @@
 
+T0 = "Tema 0 - Iniciación a las herramientas digitales en el aula.docx"
+T0TEX = "0.0_Intro.tex"
+T1 = "Tema 1 - TIC, Licencias y Recursos.docx"
+T1TEX = "1.0_TIC.tex"
 T2 = "Tema 2 - Presentaciones - Canva.docx"
 T3 = "Tema 3 - Interacción - Genially.docx"
 T4 = "Tema 4 - Cuestionarios - Kahoot.docx" 
 T5 = "Tema 5 - Otras herramientas.docx"
-T1 = "Tema 1 - TIC, Licencias y Recursos.docx"
-T1TEX = "1.0_TIC.tex"
-T0 = "Tema 0 - Iniciación a las herramientas digitales en el aula.docx"
-T0TEX = "0.0_Intro.tex"
+
+
 
 all: 0 1 2 3 4 5
 
@@ -110,8 +112,8 @@ tex: 0tex 1tex
 		--template=./LaTeX_ES.latex    \
 		--reference-doc=plantilla.docx \
 		-o  $(T3)  \
-		Cabecera.md        \
-		Cabecera_latex.md \
+		3.0.0.0.Cabecera.md        \
+		3.0.0.0.Cabecera_latex.md \
 		3.0.0.Creando_contenidos_interactivos.md \
 		3.0.1.Genially.md \
 		3.0.2.Diferencia_genially-canva.md \
@@ -133,8 +135,8 @@ tex: 0tex 1tex
 		--template=./LaTeX_ES.latex    \
 		--reference-doc=plantilla.docx \
 		-o  $(T4)  \
-		Cabecera.md        \
-		Cabecera_latex.md \
+		4.0.0.0.Cabecera.md        \
+		4.0.0.0.Cabecera_latex.md \
 		4.0.0.Cuestionarios.md \
 		4.0.2.Kahoot.md \
 		4.0.3.Jugando-kahoot.md \
@@ -149,7 +151,7 @@ tex: 0tex 1tex
 		4.3.Kahoot_cursos.md \
 		4.5.0.Kahoot_alternativas.md \
 		4.5.1.Quizizz.md \
-		4.5.2.Blokeet.md \
+		4.5.2.Blooket.md \
 		4.5.5.Plickers.md
 
 5:
@@ -158,8 +160,8 @@ tex: 0tex 1tex
 		--template=./LaTeX_ES.latex    \
 		--reference-doc=plantilla.docx \
 		-o  $(T5)  \
-		Cabecera.md        \
-		Cabecera_latex.md \
+		5.0.0.0.Cabecera.md        \
+		5.0.0.0.Cabecera_latex.md \
 		5.0.Otras_herramientas.md \
 		5.1.Edpuzzle.md \
 		5.2.Educaplay.md \
